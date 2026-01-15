@@ -20,23 +20,8 @@ DEFAULT_HOST = "0.0.0.0"
 class MetadataServer(BaseHTTPRequestHandler):
     """HTTP Request Handler for metadata API"""
     
-    # Load configuration
-    config = {}
+    # Base directory for file paths
     base_dir = Path(__file__).parent.parent
-    
-    def load_config(self):
-        """Load server configuration from config.json"""
-        config_path = Path(__file__).parent / CONFIG_FILE
-        if config_path.exists():
-            with open(config_path, 'r') as f:
-                self.config = json.load(f)
-        else:
-            self.config = {
-                "port": DEFAULT_PORT,
-                "host": DEFAULT_HOST,
-                "data_dir": "../metadata"
-            }
-        return self.config
     
     def load_resources(self):
         """Load resources from JSON file"""
@@ -310,11 +295,17 @@ def load_server_config():
     config_path = Path(__file__).parent / CONFIG_FILE
     if config_path.exists():
         with open(config_path, 'r') as f:
-            return json.load(f)
+            config = json.load(f)
+            # Return flattened config for backward compatibility
+            return {
+                "host": config.get("server", {}).get("host", DEFAULT_HOST),
+                "port": config.get("server", {}).get("port", DEFAULT_PORT),
+                "full_config": config
+            }
     return {
         "port": DEFAULT_PORT,
         "host": DEFAULT_HOST,
-        "data_dir": "../metadata"
+        "full_config": {}
     }
 
 
