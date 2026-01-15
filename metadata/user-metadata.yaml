@@ -1,0 +1,30 @@
+---
+user:
+  login: "wsx7524999"
+  date_added: "2026-01-15"
+  description: "Added Australian academic resources metadata including AIDH, ABS, ABARES, Australia & New Zealand Newsstream, AustLII, ARDC Research Data Australia, APO, and ADA Dataverse"
+
+resources_added:
+  - id: "991001576278503441"
+    title: "Australian Injectable Drugs Handbook (AIDH)"
+  
+  - id: "991001957267503441"
+    title: "Australian Bureau of Statistics (ABS)"
+  
+  - id: "991001957267603441"
+    title: "Australian Bureau of Agricultural and Resource Economics and Sciences (ABARES)"
+  
+  - id: "991001972974303441"
+    title: "Australia & New Zealand Newsstream (ProQuest)"
+  
+  - id: "991001957267703441"
+    title: "AustLII - Australasian Legal Information Institute"
+  
+  - id: "991001990173103441"
+    title: "ARDC Research Data Australia / Australian Research Data Commons"
+  
+  - id: "991001958972803441"
+    title: "Analysis & Policy Observatory (APO)"
+  
+  - id: "991001958973103441"
+    title: "ADA Dataverse / Australian Data Archive"
