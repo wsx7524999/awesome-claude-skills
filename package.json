@@ -1,0 +1,42 @@
+{
+  "name": "awesome-claude-skills",
+  "version": "1.0.0",
+  "description": "Comprehensive metadata management system for Australian academic resources with iOS/iSH compatibility",
+  "main": "server/ishserver.py",
+  "scripts": {
+    "start": "cd server && python3 ishserver.py",
+    "validate": "python3 -m json.tool metadata/australian-resources.json && python3 -m json.tool metadata/user-metadata.json",
+    "test-server": "curl http://localhost:8080/api/resources"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wsx7524999/awesome-claude-skills.git"
+  },
+  "keywords": [
+    "metadata",
+    "australian-resources",
+    "academic-resources",
+    "ios",
+    "ish",
+    "python-server",
+    "rest-api",
+    "research-data"
+  ],
+  "author": "wsx7524999",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wsx7524999/awesome-claude-skills/issues"
+  },
+  "homepage": "https://github.com/wsx7524999/awesome-claude-skills#readme",
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  },
+  "ios-compatibility": {
+    "ish": true,
+    "requirements": [
+      "Alpine Linux with Python 3.6+",
+      "No native npm dependencies"
+    ]
+  }
+}

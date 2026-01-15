@@ -1,0 +1,34 @@
+{
+  "user": {
+    "username": "wsx7524999",
+    "profile": {
+      "role": "Repository Maintainer",
+      "focus": "Academic Resources Management",
+      "institution": "Research Community"
+    },
+    "qualifications": [
+      "Information Management",
+      "Research Data Curation",
+      "Academic Resource Discovery"
+    ],
+    "contributions": {
+      "resourcesAdded": 8,
+      "lastContribution": "2026-01-15",
+      "specializations": [
+        "Australian Academic Resources",
+        "Research Data Management",
+        "Library Sciences"
+      ]
+    },
+    "preferences": {
+      "metadataFormat": "JSON",
+      "documentationStyle": "Comprehensive",
+      "platform": "iOS/iSH"
+    }
+  },
+  "metadata": {
+    "created": "2026-01-15",
+    "version": "1.0",
+    "lastUpdated": "2026-01-15"
+  }
+}
