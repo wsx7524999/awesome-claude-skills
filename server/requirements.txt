@@ -1,0 +1,18 @@
+# iSH-Compatible Server Requirements
+# This server uses only Python standard library
+# No external dependencies required for basic operation
+
+# Python 3.6+ (included in iSH)
+# Standard library modules used:
+# - http.server
+# - json
+# - os
+# - sys
+# - urllib.parse
+# - pathlib
+
+# Optional: For YAML support (if needed in future)
+# PyYAML>=5.1
+
+# Note: This server is designed to work on iOS via iSH
+# with minimal dependencies for maximum compatibility

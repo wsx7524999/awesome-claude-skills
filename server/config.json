@@ -1,0 +1,26 @@
+{
+  "server": {
+    "host": "0.0.0.0",
+    "port": 8080,
+    "description": "iSH-compatible metadata API server"
+  },
+  "paths": {
+    "data_dir": "../metadata",
+    "resources_file": "../metadata/australian-resources.json",
+    "user_file": "../metadata/user-metadata.json"
+  },
+  "features": {
+    "search_enabled": true,
+    "post_enabled": false,
+    "cors_enabled": true
+  },
+  "limits": {
+    "max_results": 100,
+    "timeout_seconds": 30
+  },
+  "metadata": {
+    "version": "1.0",
+    "created": "2026-01-15",
+    "platform": "iOS/iSH"
+  }
+}

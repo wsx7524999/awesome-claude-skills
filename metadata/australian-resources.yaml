@@ -1,0 +1,166 @@
+---
+resources:
+  - id: aidh-001
+    title: Australian Injectable Drugs Handbook
+    alternateTitle: AIDH
+    organization: Society of Hospital Pharmacists of Australia
+    type: Database
+    description: >-
+      Comprehensive reference guide for injectable drugs used in Australian healthcare
+      settings, providing essential information on drug compatibility, administration,
+      and stability.
+    subjects:
+      - Pharmacology
+      - Healthcare
+      - Medicine
+      - Drug Administration
+    accessType: Subscription
+    url: https://www.shpa.org.au/publicationsresources/aidh
+    dateAdded: '2026-01-15'
+    addedBy: wsx7524999
+
+  - id: abs-002
+    title: Australian Bureau of Statistics
+    alternateTitle: ABS
+    organization: Australian Government
+    type: Statistics
+    description: >-
+      National statistical agency providing comprehensive data and analysis on
+      Australia's economy, population, environment, and social conditions. Primary
+      source for official Australian statistics.
+    subjects:
+      - Statistics
+      - Demographics
+      - Economics
+      - Census Data
+      - Government Data
+    accessType: Open Access
+    url: https://www.abs.gov.au
+    dateAdded: '2026-01-15'
+    addedBy: wsx7524999
+
+  - id: abares-003
+    title: Australian Bureau of Agricultural and Resource Economics and Sciences
+    alternateTitle: ABARES
+    organization: Australian Government Department of Agriculture, Fisheries and Forestry
+    type: Research Database
+    description: >-
+      Provides research, analysis, and data on agriculture, fisheries, forestry,
+      and resource economics. Essential resource for understanding Australian primary
+      industries and rural economy.
+    subjects:
+      - Agriculture
+      - Resource Economics
+      - Fisheries
+      - Forestry
+      - Rural Development
+    accessType: Open Access
+    url: https://www.agriculture.gov.au/abares
+    dateAdded: '2026-01-15'
+    addedBy: wsx7524999
+
+  - id: proquest-004
+    title: Australia & New Zealand Newsstream
+    alternateTitle: ProQuest ANZ Newsstream
+    organization: ProQuest
+    type: News Database
+    description: >-
+      Full-text database providing access to current and historical news content
+      from major Australian and New Zealand newspapers, including The Australian,
+      The Sydney Morning Herald, and The Age.
+    subjects:
+      - News
+      - Current Events
+      - Journalism
+      - Media Studies
+      - Historical Research
+    accessType: Subscription
+    url: https://www.proquest.com/products-services/anz_news.html
+    dateAdded: '2026-01-15'
+    addedBy: wsx7524999
+
+  - id: austlii-005
+    title: Australasian Legal Information Institute
+    alternateTitle: AustLII
+    organization: University of Technology Sydney and University of New South Wales
+    type: Legal Database
+    description: >-
+      Free access to Australian legal materials including legislation, case law,
+      treaties, and law reform reports. Premier source for Australian legal research
+      and information.
+    subjects:
+      - Law
+      - Legal Research
+      - Legislation
+      - Case Law
+      - Legal Education
+    accessType: Open Access
+    url: https://www.austlii.edu.au
+    dateAdded: '2026-01-15'
+    addedBy: wsx7524999
+
+  - id: ardc-006
+    title: ARDC Research Data Australia
+    alternateTitle: Research Data Australia
+    organization: Australian Research Data Commons
+    type: Research Data Repository
+    description: >-
+      National discovery service for Australian research data, collections, projects,
+      and researchers. Facilitates data sharing and collaboration across research
+      institutions.
+    subjects:
+      - Research Data
+      - Data Management
+      - Academic Research
+      - Data Discovery
+      - Research Infrastructure
+    accessType: Open Access
+    url: https://researchdata.edu.au
+    dateAdded: '2026-01-15'
+    addedBy: wsx7524999
+
+  - id: apo-007
+    title: Analysis & Policy Observatory
+    alternateTitle: APO
+    organization: Swinburne University of Technology and University of Melbourne
+    type: Policy Database
+    description: >-
+      Comprehensive repository of Australian public policy resources including
+      research papers, reports, and analysis. Connects researchers, policy makers,
+      and practitioners.
+    subjects:
+      - Public Policy
+      - Government
+      - Policy Analysis
+      - Social Research
+      - Evidence-Based Policy
+    accessType: Open Access
+    url: https://apo.org.au
+    dateAdded: '2026-01-15'
+    addedBy: wsx7524999
+
+  - id: ada-008
+    title: ADA Dataverse - Australian Data Archive
+    alternateTitle: ADA Dataverse
+    organization: Australian National University
+    type: Data Archive
+    description: >-
+      National service for collection, preservation, and sharing of social science
+      research data. Provides long-term access to Australian social, political,
+      and economic data.
+    subjects:
+      - Social Science
+      - Research Data
+      - Data Preservation
+      - Survey Data
+      - Longitudinal Studies
+    accessType: Open Access
+    url: https://dataverse.ada.edu.au
+    dateAdded: '2026-01-15'
+    addedBy: wsx7524999
+
+metadata:
+  version: '1.0'
+  lastUpdated: '2026-01-15'
+  totalResources: 8
+  description: Collection of Australian academic and research resources
