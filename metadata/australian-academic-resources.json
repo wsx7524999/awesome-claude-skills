@@ -1,0 +1,152 @@
+[
+  {
+    "id": "991001576278503441",
+    "title": "Australian Injectable Drugs Handbook (AIDH)",
+    "leader": "00718nac",
+    "control_number": "991001576278503441",
+    "last_updated": "20230523143907.0",
+    "date_field": "170212s",
+    "marc_fields": {
+      "001": "991001576278503441",
+      "005": "20230523143907.0",
+      "008": "170212s",
+      "245": "Australian Injectable Drugs Handbook (AIDH)",
+      "246": "",
+      "264": "",
+      "300": "",
+      "520": "",
+      "901": "",
+      "904": "00$a(CKB)6114053840000041"
+    }
+  },
+  {
+    "id": "991001957267503441",
+    "title": "Australian Bureau of Statistics (ABS)",
+    "leader": "00605nac",
+    "control_number": "991001957267503441",
+    "last_updated": "20230315160150.0",
+    "date_field": "170212s",
+    "marc_fields": {
+      "001": "991001957267503441",
+      "005": "20230315160150.0",
+      "008": "170212s",
+      "245": "Australian Bureau of Statistics (ABS)",
+      "246": "",
+      "264": "",
+      "300": "",
+      "520": "",
+      "901": "",
+      "904": "00$a(CKB)6114041460000041"
+    }
+  },
+  {
+    "id": "991001957267603441",
+    "title": "Australian Bureau of Agricultural and Resource Economics and Sciences (ABARES)",
+    "leader": "00775nac",
+    "control_number": "991001957267603441",
+    "last_updated": "20230720130859.0",
+    "date_field": "170206s",
+    "marc_fields": {
+      "001": "991001957267603441",
+      "005": "20230720130859.0",
+      "008": "170206s",
+      "245": "Australian Bureau of Agricultural and Resource Economics and Sciences (ABARES)",
+      "246": "",
+      "264": "",
+      "300": "",
+      "520": "",
+      "901": ""
+    }
+  },
+  {
+    "id": "991001972974303441",
+    "title": "Australia & New Zealand Newsstream (ProQuest)",
+    "leader": "00611nac",
+    "control_number": "991001972974303441",
+    "last_updated": "20230727133619.0",
+    "date_field": "160918s",
+    "marc_fields": {
+      "001": "991001972974303441",
+      "005": "20230727133619.0",
+      "008": "160918s",
+      "245": "Australia & New Zealand Newsstream (ProQuest)",
+      "300": "",
+      "520": "",
+      "901": "",
+      "904": "00$a(CKB)613780000000000916"
+    },
+    "url": "https://cqu.primo.exlibrisgroup.com/discovery/sourceRecord?vid=61CQU_INST:61CQU&docId=alma991001972974303441&recordOwner=61CQU_I"
+  },
+  {
+    "id": "991001957267703441",
+    "title": "AustLII - Australasian Legal Information Institute",
+    "leader": "00685nac",
+    "control_number": "991001957267703441",
+    "last_updated": "20230403161127.0",
+    "date_field": "170212s",
+    "marc_fields": {
+      "001": "991001957267703441",
+      "005": "20230403161127.0",
+      "008": "170212s",
+      "245": "AustLII - Australasian Legal Information Institute",
+      "300": "",
+      "520": "",
+      "901": "",
+      "904": "00$a(CKB)6113970030000041"
+    }
+  },
+  {
+    "id": "991001990173103441",
+    "title": "ARDC Research Data Australia / Australian Research Data Commons",
+    "leader": "00597nmm",
+    "control_number": "991001990173103441",
+    "last_updated": "20230801101357.0",
+    "date_field": "230801s",
+    "marc_fields": {
+      "001": "991001990173103441",
+      "005": "20230801101357.0",
+      "008": "230801s",
+      "245": "ARDC Research Data Australia / Australian Research Data Commons",
+      "246": "",
+      "300": "",
+      "520": "",
+      "901": ""
+    },
+    "url": "https://cqu.primo.exlibrisgroup.com/discovery/sourceRecord?vid=61CQU_INST:61CQU&docId=alma991001990173103441&recordOwner=61CQU_I"
+  },
+  {
+    "id": "991001958972803441",
+    "title": "Analysis & Policy Observatory (APO)",
+    "leader": "00554nmm",
+    "control_number": "991001958972803441",
+    "last_updated": "20230523160021.0",
+    "date_field": "230314s",
+    "marc_fields": {
+      "001": "991001958972803441",
+      "005": "20230523160021.0",
+      "008": "230314s",
+      "245": "Analysis & Policy Observatory (APO)",
+      "300": "",
+      "520": "",
+      "901": ""
+    }
+  },
+  {
+    "id": "991001958973103441",
+    "title": "ADA Dataverse / Australian Data Archive",
+    "leader": "00541nmm",
+    "control_number": "991001958973103441",
+    "last_updated": "20230331145131.0",
+    "date_field": "230314s",
+    "marc_fields": {
+      "001": "991001958973103441",
+      "005": "20230331145131.0",
+      "008": "230314s",
+      "245": "ADA Dataverse / Australian Data Archive",
+      "246": "",
+      "300": "",
+      "520": "",
+      "901": ""
+    }
+  }
+]

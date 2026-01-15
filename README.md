@@ -42,6 +42,50 @@ We encourage you to join our growing community. You can contribute your own skil
 ## 💬 Support
 If you have questions or need help, visit our Issues tab on the GitHub repository. You can search to see if someone else had the same question, or create a new issue for specific help.
 
+## 📚 Australian Academic Resources
+
+This repository includes curated metadata for Australian academic resources:
+
+### Metadata Files
+- [**JSON Format**](metadata/australian-academic-resources.json) - Machine-readable metadata for 8 Australian academic resources
+- [**YAML Format**](metadata/australian-academic-resources.yaml) - Human-readable metadata in YAML
+- [**User Metadata**](metadata/user-metadata.json) - Contributor and resource information
+
+### Available Resources
+1. Australian Injectable Drugs Handbook (AIDH)
+2. Australian Bureau of Statistics (ABS)
+3. Australian Bureau of Agricultural and Resource Economics and Sciences (ABARES)
+4. Australia & New Zealand Newsstream (ProQuest)
+5. AustLII - Australasian Legal Information Institute
+6. ARDC Research Data Australia / Australian Research Data Commons
+7. Analysis & Policy Observatory (APO)
+8. ADA Dataverse / Australian Data Archive
+
+### Local API Server
+
+Run a local server to access the metadata via REST API:
+
+```bash
+cd server
+python3 ishserver.py
+```
+
+Then visit `http://localhost:8000/` in your browser or use the API endpoints:
+- `/resources` - List all resources
+- `/resources/<id>` - Get specific resource
+- `/search?q=<query>` - Search resources
+
+[📖 Server Documentation](server/README.md)
+
+## 📱 iOS Development Setup
+
+Develop and test on iOS using iSH:
+
+- [**iSH Setup Guide**](docs/ISH_SETUP_GUIDE.md) - Complete guide to installing iSH, Python, Git, and running the server on iOS
+- [**iOS Development Environment**](docs/IOS_DEV_ENVIRONMENT.md) - Comprehensive iOS development workflows, editors, and best practices
+
+Perfect for mobile development and testing on iPhone or iPad!
+
 ## 🔗 Important Links
 - [GitHub Repository](https://github.com/jacintarefined358/awesome-claude-skills)
 - [Explore Skills on Releases](https://github.com/jacintarefined358/awesome-claude-skills/releases)
