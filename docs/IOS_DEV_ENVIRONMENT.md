@@ -682,4 +682,4 @@ pip3 install --user package-name
 
 ---
 
-**Happy developing on iOS! 🎨✨**
+**Happy development on iOS! 🎨✨**
