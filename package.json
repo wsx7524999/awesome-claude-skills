@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/wsx7524999/awesome-claude-skills#readme",
   "engines": {
-    "node": ">=14.0.0",
+    "node": ">=12.0.0",
     "npm": ">=6.0.0"
   },
   "ios-compatibility": {
